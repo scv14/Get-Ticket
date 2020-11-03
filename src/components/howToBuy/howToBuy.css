@@ -1,0 +1,15 @@
+.howToBuy{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin: 60px 0;
+    box-shadow: 0 10px 20px 1px rgb(177, 177, 177);
+}
+.howToBuyDescription{
+    width: 100%;
+    font-size: 16px;
+}
+.howToBuyTitle{
+    font-size: 28px;
+    border-bottom: 1px solid gray;
+}
